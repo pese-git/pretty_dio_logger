@@ -1,4 +1,4 @@
-import 'package:dio/dio.dart';
+import 'package:dio_http/dio_http.dart';
 import 'package:pretty_dio_logger/pretty_dio_logger.dart';
 
 void main() async {

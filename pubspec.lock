@@ -15,13 +15,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.15.0"
-  dio:
+  dio_http:
     dependency: "direct main"
     description:
-      name: dio
+      name: dio_http
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.0.0-prev1"
+    version: "5.0.4"
   http_parser:
     dependency: transitive
     description:
